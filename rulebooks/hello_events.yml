@@ -9,5 +9,5 @@
       condition: event.i == 1
       action:
         run_playbook:
-          name: playbooks/hello.yml
+          name: hello
 ...
